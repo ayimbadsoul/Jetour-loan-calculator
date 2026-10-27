@@ -7,7 +7,7 @@ on:
       - main
     paths:
       - 'Jetour_Loan_Calculator_iPhone_PWA.zip'
-      - '.github/workflows/pages.yml'
+      - '.github/workflows/Pages.yml'
 
 permissions:
   contents: read
